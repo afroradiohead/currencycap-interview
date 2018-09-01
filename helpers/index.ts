@@ -1,6 +1,6 @@
 import {chain} from 'lodash';
 import * as moment from "moment";
-import {PRICE_PER_WORK_WEEK, MAX_WORK_WEEKS_PER_MONTH, EXCLUDED_WORK_DAYS} from "./config";
+import {PRICE_PER_WORK_WEEK, MAX_WORK_WEEKS_PER_MONTH, EXCLUDED_WORK_DAYS} from "../config";
 
 /**
  * Gets the number of the week of the month of a moment object

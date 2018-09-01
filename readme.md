@@ -15,14 +15,14 @@ GET [banana budget](https://iw4jx8w0vb.execute-api.us-east-1.amazonaws.com/dev/b
 PARAMS:
 
 ```
-key - startDate: string
-default value - [today's date]
-Acceptable formats: MM-DD-YYYY, YYYY-MM-DD, MM/DD/YYYY
+startDate: string
+[default value] today's date
+[Acceptable formats] MM-DD-YYYY, YYYY-MM-DD, MM/DD/YYYY
 ```
 
 ```
-key - numberOfDays: number
-default value - 1
+numberOfDays: number
+[default value] 1
 ```
 
 #### More Examples:
