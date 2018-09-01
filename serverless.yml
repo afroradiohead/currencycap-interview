@@ -11,7 +11,7 @@ provider:
   runtime: nodejs8.10
 
 functions:
-  hello:
+  bananaBudget:
     handler: handler.getBananaBudget
     events:
       - http:
